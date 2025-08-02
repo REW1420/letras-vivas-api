@@ -37,12 +37,13 @@ Overall, this project serves as a solid starting point for building Java REST AP
 1. **Clone the repository**
 
 ````bash
-git clone https://github.com/your-username/book-api.git
-cd book-api
+git clone https://github.com/REW1420/letras-vivas-api
+cd letras-vivas-api
 
 2. **Build the project**
 
 ```bash
+
 ./mvnw clean install
 
 - Or Grandle
@@ -52,6 +53,7 @@ cd book-api
 3. **Run the application**
 
 ```bash
+
 ./mvnw spring-boot:run
 
 4. **Access the application**
@@ -75,6 +77,7 @@ cd book-api
 ## 🧪 Running Tests
 
 ```bash
+
 ./mvnw test
 
 ## 📂 Project Structure
